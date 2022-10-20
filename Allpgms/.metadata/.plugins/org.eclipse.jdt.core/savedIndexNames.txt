@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Athreya\vtulabprgms\sem4\DesignAndAnalysisOfAlgorithmsLaboratory\Allpgms\.metadata\.plugins\org.eclipse.jdt.core
